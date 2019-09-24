@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.lhfeiyu</groupId>
     <artifactId>tech-parent</artifactId>
-    <version>1.0.0.RELEASE</version>
+    <version>1.0.1.RELEASE</version>
     <packaging>pom</packaging>
     <name>tech-parent</name>
     <description>tech project parent</description>
@@ -22,7 +22,7 @@
         </license>
     </licenses>
     <organization>
-        <name>laihaifeiyu</name>
+        <name>lanhaifeiyu</name>
         <url>https://github.com/lanhaifeiyu</url>
     </organization>
     <developers>
@@ -240,5 +240,16 @@
         <plugins>
         </plugins>
     </build>
-
+    <distributionManagement>
+        <repository>
+            <id>releases</id>
+            <name>Nexus Release Repository</name>
+            <url>http://182.61.49.180:8081/repository/maven-releases</url>
+        </repository>
+        <snapshotRepository>
+            <id>snapshots</id>
+            <name>Nexus Snapshot Repository</name>
+            <url>http://182.61.49.180:8081/repository/maven-snapshots</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
