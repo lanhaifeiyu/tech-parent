@@ -45,7 +45,7 @@
         <common.encoding>UTF-8</common.encoding>
         <commons-beanutils.version>1.9.3</commons-beanutils.version>
         <commons-cli.version>1.4</commons-cli.version>
-        <commons-compress.version>1.18</commons-compress.version>
+        <commons-compress.version>1.21</commons-compress.version>
         <commons-fileupload.version>1.4</commons-fileupload.version>
         <commons-io.version>2.6</commons-io.version>
         <druid.version>1.1.17</druid.version>
