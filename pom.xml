@@ -61,7 +61,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <swagger.version>2.9.2</swagger.version>
         <testng.version>7.0.0-beta4</testng.version>
-        <xerces.version>2.12.0</xerces.version>
+        <xerces.version>2.12.2</xerces.version>
     </properties>
 
     <dependencyManagement>
