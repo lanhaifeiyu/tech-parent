@@ -50,7 +50,7 @@
         <commons-io.version>2.6</commons-io.version>
         <druid.version>1.1.17</druid.version>
         <easypoi.version>4.0.0</easypoi.version>
-        <fastjson.version>1.2.58</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <guava.version>28.0-jre</guava.version>
         <java.version>12</java.version>
         <javatuples.version>1.2</javatuples.version>
